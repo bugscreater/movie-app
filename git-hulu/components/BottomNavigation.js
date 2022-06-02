@@ -19,7 +19,7 @@ export default function SimpleBottomNavigation() {
         setValue(newValue)
       }}
       showLabels
-      className="w-full fixed inset-x-0  bottom-0 z-10 bg-[#06202A] text-gray-300"
+      className="w-full fixed inset-x-0  bottom-0 z-10 bg-[#06202A]"
     > 
       
       <BottomNavigationAction
