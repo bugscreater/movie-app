@@ -1,4 +1,5 @@
 module.exports = {
+  important: true,
   mode: "jit",
   content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
